@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/5999a0cd-4fac-4438-9e14-c5007e66b329" alt="Criminal IP" width="700" />
+<img src="https://github.com/user-attachments/assets/114e436d-9e94-4f77-933e-9243a2e8a985" alt="Criminal IP" width="700" />
 
 <br/><br/>
 
