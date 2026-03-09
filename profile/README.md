@@ -21,6 +21,13 @@ Explore practical API examples and see how Criminal IP data is used in real-worl
 </div>
 
 ---
+## 🔥 Latest Repositories
+
+| Repository | Description |
+|------------|-------------|
+| **[asset-exposure-scanner](https://github.com/criminalip/asset-exposure-scanner)** | Extract identifiers from Asset Search results and analyze exposure using confirmed port records |
+| **[threat-validation-pipeline](https://github.com/criminalip/threat-validation-pipeline)** | Validate suspicious IP activity and automate firewall or SOAR response workflows |
+---
 
 ## 🔑 API Access & Getting Started
 
