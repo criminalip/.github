@@ -7,7 +7,7 @@
 <br/><br/>
 
 <a href="https://www.criminalip.io"><u><b>Criminal IP Website</b></u></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/in-CriminalIP-5B9BD5?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/company/aispera/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/in-CriminalIP-5B9BD5?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/company/criminalip/)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/-@CriminalIP__US-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CriminalIP_US)
 
 <br/>
